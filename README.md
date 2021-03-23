@@ -10,9 +10,9 @@ Selam ben [Novasy](http://https://github.com/novasy "Novasy")!
 
 **• İsmim Alp 18 yaşındayım izmirli olmama rağmen şu an tokatda ikamet ediyorum.** 🏠
 
-**• Bu işlere başlamamın nedeni çevremdeki insanların çoğunun yazılım ile ilgilenmesi her konuda yardımcı oldukları için tekrardan teşekkür ediyorum. 💖 **
+**• Bu işlere başlamamın nedeni çevremdeki insanların çoğunun yazılım ile ilgilenmesi her konuda yardımcı oldukları için tekrardan teşekkür ediyorum.** 💖
 
-**• Yukarda belirttiğim üzere ulaşmak isteyen yukardaki hesaplar üzerinden ulaşabilir. 🐱‍**
+**• Yukarda belirttiğim üzere ulaşmak isteyen yukardaki hesaplar üzerinden ulaşabilir.** 🐱‍
 
 
 
