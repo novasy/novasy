@@ -15,7 +15,7 @@ Selam ben [Novasy](http://https://github.com/novasy "Novasy")!
 **• Yukarda belirttiğim üzere ulaşmak isteyen yukardaki hesaplar üzerinden ulaşabilir.** 🐱‍
 
 </p>
-<h3 align="left">GitHub İstatistiklerim:</h3>
+<h3 align="left">Github İstatistiklerim:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=novasy&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
