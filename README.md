@@ -13,4 +13,4 @@ Selam ben [Novasy](http://https://github.com/novasy "Novasy")!
 **• Yukarda belirttiğim üzere ulaşmak isteyen yukardaki hesaplar üzerinden ulaşabilir.** 🐱‍
 
 
-
+https://komarev.com/ghpvc/?username=novasy&style=flat-square
