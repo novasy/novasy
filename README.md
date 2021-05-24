@@ -1,4 +1,6 @@
-**Merhaba** 👋 ![](https://komarev.com/ghpvc/?username=novasy&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=novasy&color=brightgreen)
+
+**Merhaba** 👋 
 
 Selam ben [Novasy](http://https://github.com/novasy "Novasy")!
 
