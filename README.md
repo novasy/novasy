@@ -12,5 +12,5 @@ Selam ben [Novasy](http://https://github.com/novasy "Novasy")!
 
 **• Yukarda belirttiğim üzere ulaşmak isteyen yukardaki hesaplar üzerinden ulaşabilir.** 🐱‍
 
-![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=novasy&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=novasy&color=brightgreen)
 
