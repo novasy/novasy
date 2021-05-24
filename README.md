@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=novasy&color=brightgreen)
 
-**Merhaba** 👋 
 
-Selam ben [Novasy](http://https://github.com/novasy "Novasy")!
+**Selam ben [Novasy](http://https://github.com/novasy "Novasy")!**
 
 **Kendim hakkımda bahsetebileceğim bir şey yok çünkü aslında sıkıcı bir insanım...**
 
