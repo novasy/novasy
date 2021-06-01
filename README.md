@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=novasy&color=brightgreen)
+
 
 **Selam ben [Novasy](http://https://github.com/novasy "Novasy")!**
 
