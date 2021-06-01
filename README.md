@@ -9,4 +9,3 @@
  
 ![Github İstatistiklerim:](https://github-readme-stats.vercel.app/api?username=novasy&show_icons=true&theme=radical)
 
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/m0oz7pjk0bt7vo3noz1j5173m)
