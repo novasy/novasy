@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=novasy&label=Ziyaretçi%20Sayısı&color=da004e" alt="Novasy" />
 
-**Kendim hakkımda bahsetebileceğim bir şey yok çünkü aslında sıkıcı bir insanım...**
+**Yoksa hâlâ [Codesty](https://codesty.org/team) ekibinin geliştirmekte olduğu [Codesty](https://codesty.org)'e göz atmadın mı ?**
 
 **Bana ulaşabileceğiniz sosyal medya hesaplarım:**
 
