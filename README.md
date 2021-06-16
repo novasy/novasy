@@ -1,9 +1,9 @@
 
 **Selam ben [Novasy](http://https://github.com/novasy "Novasy")!**
 
-**Kendim hakkımda bahsetebileceğim bir şey yok çünkü aslında sıkıcı bir insanım...**
-
 <img src="https://komarev.com/ghpvc/?username=novasy&label=Ziyaretçi%20Sayısı&color=da004e" alt="Novasy" />
+
+**Kendim hakkımda bahsetebileceğim bir şey yok çünkü aslında sıkıcı bir insanım...**
 
 **Bana ulaşabileceğiniz sosyal medya hesaplarım:**
 
