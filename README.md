@@ -3,7 +3,7 @@
 
 **Kendim hakkımda bahsetebileceğim bir şey yok çünkü aslında sıkıcı bir insanım...**
 
-<img src="https://komarev.com/ghpvc/?username=novasy&label=Ziyaretçi%20Sayısı&color=8cffef" alt="Novasy" />
+<img src="https://komarev.com/ghpvc/?username=novasy&label=Ziyaretçi%20Sayısı&color=da004e" alt="Novasy" />
 
 **Bana ulaşabileceğiniz sosyal medya hesaplarım:**
 
