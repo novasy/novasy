@@ -1,7 +1,7 @@
 ```js
 class Novasy {
   constructor(...options) {
-    this.height = "1.85"
+    this.height = "1.81"
     this.weight = "68"
     this.type = "human"
     this.job = "student"
