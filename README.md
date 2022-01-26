@@ -1,8 +1,5 @@
-**Selam ben [Novasy](http://https://github.com/novasy "Novasy")!**
 
 <img src="https://komarev.com/ghpvc/?username=novasy&label=Ziyaretçi%20Sayısı&color=da004e" alt="Novasy" />
-
-**Yoksa hâlâ [Codesty](https://codesty.org/team) ekibinin geliştirmekte olduğu [Codesty](https://codesty.org)'e göz atmadın mı ?**
 
  [**Discord Sunucuma Katıl!**](https://discord.gg/bot)
  
