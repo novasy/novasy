@@ -39,6 +39,6 @@ Novasy.introduce();
 <p align="center">
      <a href="https://www.instagram.com/novasyy" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://twitch.tv/novasy0" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
- <a href="https://open.spotify.com/user/31dqmwlwtv6vcnixoftlfq5ygr3a?si=86de9b7e7d2945e5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://open.spotify.com/intl-tr/artist/53aLhkySM6tjhyxM8M4cwz?si=Vlb6BGHQTMm-3UjHL7sltQ" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
       <a href="https://discord.com/users/191906844199878656" target"blank_"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
