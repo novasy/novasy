@@ -27,6 +27,8 @@ Novasy.introduce();
 - ![](https://img.shields.io/badge/Code-PHP-black?style=flat-square&logo=php&logoColor=cyan)
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 - ![](https://img.shields.io/badge/Tools-MYSQL-black?style=flat-square&logo=mysql&logoColor=cyan)
+- ![](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=cyan)
+- ![](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=cyan)
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=novasy&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
