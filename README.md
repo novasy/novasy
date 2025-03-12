@@ -17,7 +17,7 @@ class Person {
   }
 }
 
-const Novasy = new Person("Alp", 20, "İzmir", "Computer Engineering Student", "Erkek");
+const Novasy = new Person("Alp", 21, "İzmir", "Computer Engineering Student", "Erkek");
 Novasy.introduce();
 ```
 
